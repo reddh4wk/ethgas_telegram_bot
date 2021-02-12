@@ -3,7 +3,6 @@
 ####  https://github.com/reddh4wk/crypto-alert-bot/edit/main/gasbot_v1.2.py  ####
 #################################################################################
 SPEED=["fastest", "fast", "average"]
-SPAM_LIMITER_IN_SECONDS=600 #use an integer number
 TOKEN = 'YOUR_TELEGRAM_API_KEY'
 INSTANCES=[]
 #################################################################################
